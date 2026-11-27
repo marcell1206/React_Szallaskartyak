@@ -1,0 +1,19 @@
+.kartya {
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: white;
+    width: minmax(260px, 1fr);
+    padding: 10px;
+    padding-top: 30px;
+}
+
+.lastMinute {
+    position: relative;
+    top: 5px;
+    left: 5px;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    padding: 2px;
+    width: fit-content;
+}
